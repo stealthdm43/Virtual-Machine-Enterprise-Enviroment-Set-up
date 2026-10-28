@@ -20,5 +20,5 @@ In this Lab I set up multiple virtual machines to build my own VM network with a
 ![IP set up](https://i.imgur.com/wDJSDa0.png)  
 ![IP change](https://i.imgur.com/sDTPuIm.png)  
 
-**6)** Used ipconfig to confirm Settings
-![IPCONFIG](https://i.imgur.com/dLjsQ09.png)
+**6)** Used ipconfig to confirm Settings and pinged 1.1.1.1 to verify internet connection
+![IPCONFIG](https://i.imgur.com/vvm1tVT.png)
