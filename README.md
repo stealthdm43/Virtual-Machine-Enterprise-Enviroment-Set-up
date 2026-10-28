@@ -13,7 +13,12 @@ In this Lab I set up multiple virtual machines to build my own VM network with a
 **3)** I went to the settings of **DC01** in VirtualBox and attached the network addapter to **MyNetLab**
 ![NEt Adaptor](https://i.imgur.com/DuIs87X_d.webp?maxwidth=760&fidelity=grand)  
 
-**4)** Let the VM **DC01** download the ISO file and launch Windows Server
-![WinServ Launch](https://imgur.com/a/kA4p6Sa)  
+**4)** Let the VM **DC01** download the ISO file and launch Windows Server  
+![WinServ Launch](https://i.imgur.com/kKDrtFO.png)  
 
-**5)** Went to 
+**5)** Used the command line in **DC01** to Set the IPv4 address, subnet mask, defualt gateway and DNS. 
+![IP set up](https://i.imgur.com/wDJSDa0.png)  
+![IP change](https://i.imgur.com/sDTPuIm.png)  
+
+**6)** Used ipconfig to confirm Settings
+![IPCONFIG](https://i.imgur.com/dLjsQ09.png)
