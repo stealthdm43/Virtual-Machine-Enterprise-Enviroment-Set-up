@@ -1,4 +1,4 @@
-### Part 1: Initial Set Up and Deployment of the Windows Server**
+### Part 1: Initial Set Up and Deployment of the Windows Server
 
 **1)** Used Oracle VirtualBox to provision a VM and used a Windows Server ISO file  
 ![Server VM created](https://i.imgur.com/kO7O9mS.png)  
